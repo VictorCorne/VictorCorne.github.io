@@ -6,12 +6,12 @@ permalink: /future_works/
 
 Here are some topics I would like to delve deeper into
 
-## Core
+## Big Projects
 Make Neural network
 
 TODO cont
 
-## Outer
+## Small Projects
 - Data visualisation:
   - I heard that power bi is pretty popular as a data visualisation tool (even so popular that I once saw a "meme" shared by a practicioner of my sports club on my LinkedIn). I would like to try it some day, to see what the hype is about!
   - I already did a fair share of data visualization in python (for visualizing my study progress and my bank activity through time)
