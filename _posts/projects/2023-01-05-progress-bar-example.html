@@ -1,0 +1,43 @@
+---
+difficulty: 3
+size: 8
+---
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Progress Bar</title>
+  <difficulty>5</difficulty>
+  <size>1</size>
+  <style>
+    /* Container for the progress bar */
+    .progress-bar {
+      display: flex;
+      gap: 5px;
+      margin: 20px;
+    }
+    
+    /* Each block of the progress bar */
+    .block {
+      width: 30px;
+      height: 30px;
+      background-color: grey; /* Default color for unfilled blocks */
+    }
+
+    /* Filled block color */
+    .filled {
+      background-color: #4caf50; /* Green color for filled blocks */
+    }
+  </style>
+</head>
+<body>
+  <div class="progress-bar">
+    <div class="block filled"></div>
+    <div class="block filled"></div>
+    <div class="block filled"></div>
+    <div class="block"></div>
+    <div class="block"></div>
+  </div>
+</body>
+</html>

@@ -6,4 +6,6 @@ layout: post
 categories: projects
 excerpt: "We made autonomous agents"
 description: "This is a description"
+difficulty: 2
+size: 3
 ---

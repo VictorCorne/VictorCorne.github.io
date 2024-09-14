@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.stars {
+    display: flex;
+    flex-wrap: wrap;
+    width: 120px; /* Adjust based on your design */
+}
+
+.star {
+    font-size: 20px;
+    color: #FFD700; /* Gold color for stars */
+    margin-right: 2px; /* Adjust spacing between stars */
+}
+
+.star.empty {
+    color: #dcdcdc; /* Light grey for empty stars */
+}
+
+.stars span:nth-child(5n) {
+    margin-right: 0; /* Remove margin after every fifth star */
+    flex-basis: 100%; /* Force line break after every five stars */
+}
