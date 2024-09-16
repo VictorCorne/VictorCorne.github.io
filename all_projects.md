@@ -3,6 +3,8 @@ title: Projects
 layout: post
 ---
 
+> Warning: this page (and all pages it links to) are works in progress!
+
 On this page, some projects that I completed, sorted on size.
 
 Most of those projects come from the courses I took on, which is logical since they fit really closely to my interests
