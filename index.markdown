@@ -11,4 +11,7 @@ This is my personal webpage where I keep track of my portfolio and all my projec
 
 \- Victor
 
+
+[The Projects page](all_projects) is currently the most interesting one on this portfolio. It contains my most interesting projects relating to computer science that I have done.
+
 <!-- TODO include linkedin -->
