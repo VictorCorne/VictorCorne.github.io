@@ -4,7 +4,9 @@ title: Education
 ---
 
 ## Master of Engineering: Computer Science (Leuven): option AI (2022-2024)
-[Course descriptions](https://onderwijsaanbod.kuleuven.be/opleidingen/n/SC_51230411.htm#bl=all)
+The following courses are the ones I took officially at the KULeuven (the programme description is [available here](https://onderwijsaanbod.kuleuven.be/opleidingen/n/SC_51230411.htm#bl=all)). 
+
+In my spare time I also followed Computer vision `[H02A5A]` to prepare for my [internship at GIM](pages/projects/InternshipGIM.md), and [Introduction to Deep Learning (I2DL)](https://niessner.github.io/I2DL/) `(IN2346)` from TUMunich, which was recommended to me by a friend.
 
 
 **AI**
@@ -18,7 +20,6 @@ title: Education
 - `[H0E96A]` Principles of Machine Learning
 - `[H04J4A]` Master's Thesis
 - `[H05N0A]` Capita Selecta Computer Science: Artificial Intelligence
-
 
 **Computer Science**
 - `[H09B5B]` Software Architecture
