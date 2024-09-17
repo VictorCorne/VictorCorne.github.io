@@ -11,20 +11,20 @@ Most of those projects stem from the courses I've taken, which very closely fit 
 
 # Large Projects
 The following are all projects with a greater scope where I learnt a lot from them. Most of them took multiple months to complete.
-- [RAG Pipeline with sentence embeddings](projects/RAG_IRSE)
-- [Thesis: Relational Constraint Learning of Low-Voltage Electrical Networks](projects/Thesis_GIS_Rule_learning)
-- [Natural Language Model to mimic chats messages from friends](projects/ChatCloner)
-- [Internship: NDA-sensitive project](projects/InternshipGIM)
-- [Bachelor's thesis: Evaluating Multi-Agent control mechanisms in the Packetworld](projects/BachelorPacketWorld)
-- [OCaml Interpreter for a time-reversible programming language](projects/OCamlInterpreter)
-- [Large scale software development in fictitious setting](projects/AssemAssist)
-- [Website for fictitious football fan club](projects/football_website)
+- [RAG Pipeline with sentence embeddings](pages/projects/RAG_IRSE)
+- [Thesis: Relational Constraint Learning of Low-Voltage Electrical Networks](pages/projects/Thesis_GIS_Rule_learning)
+- [Natural Language Model to mimic chats messages from friends](pages/projects/ChatCloner)
+- [Internship: NDA-sensitive project](pages/projects/InternshipGIM)
+- [Bachelor's thesis: Evaluating Multi-Agent control mechanisms in the Packetworld](pages/projects/BachelorPacketWorld)
+- [OCaml Interpreter for a time-reversible programming language](pages/projects/OCamlInterpreter)
+- [Large scale software development in fictitious setting](pages/projects/AssemAssist)
+- [Website for fictitious football fan club](pages/projects/football_website)
 
 # Medium Projects
 Those projects had a somewhat more limited scope, but were all still very rewarding and had a very rich learning experience.
-- [Efficient algorithms for infinite features in big data](projects/big_data_infinite_features)
-- [Hardware acceleration using CPU Intrinsics (C++)](projects/big_data_hardware_intrinsics)
-- [Gigabytes data-analysis of NBA statistics using hadoop](projects/big_data_hadoop)
+- [Efficient algorithms for infinite features in big data](pages/projects/big_data_infinite_features)
+- [Hardware acceleration using CPU Intrinsics (C++)](pages/projects/big_data_hardware_intrinsics)
+- [Gigabytes data-analysis of NBA statistics using hadoop](pages/projects/big_data_hadoop)
 - Game jams with Godot Engine (international team)
 - Transformer Language Model for short stories
 - Parallel implementation of the game of life using MPI (December 2023)
