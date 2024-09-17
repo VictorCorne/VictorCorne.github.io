@@ -20,7 +20,7 @@ title: Education
 - `[H05N0A]` Capita Selecta Computer Science: Artificial Intelligence
 
 
-**Computer Science (other)**
+**Computer Science**
 - `[H09B5B]` Software Architecture
 - `[H04I4A]` Distributed Systems
 - `[G0Q57A]` Modelling and Simulation
@@ -36,7 +36,8 @@ title: Education
 
 ## Bachelor of Informatics (Kortrijk) - Bachelor of Science 2019-2022
 
-[Course descriptions](https://onderwijsaanbod.kuleuven.be/2019/opleidingen/n/SC_55031767.htm#bl=all)
+In my bachelor I chose for the minor in economics and technology. The programme and course descriptions are [available here](https://onderwijsaanbod.kuleuven.be/2019/opleidingen/n/SC_55031767.htm#bl=all).
+
 
 **Computer Science**
 - `[X0D45A]` Software Design
