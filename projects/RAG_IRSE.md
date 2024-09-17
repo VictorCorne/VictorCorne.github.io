@@ -1,6 +1,9 @@
 ---
 layout: post
-
+scope: Large
+name: Retrieval Augmented Generation (RAG) pipeline for scientific papers QA using sentence embeddings
+status: 
+skills: 
 ---
 
 ## Retrieval Augmented Generation pipeline for scientific papers using sentence embeddings
