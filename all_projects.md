@@ -3,11 +3,7 @@ title: Projects
 layout: post
 ---
 
-> This page (and all pages it links to) are under construction (WIP)
-
-On this page, some projects that I completed, sorted on size.
-
-Most of those projects stem from the courses I've taken, which very closely fit my interests.
+> On this page, some projects that I completed, sorted on size. Most of them stem from the courses I've taken, which very closely fit my interests.
 
 # Large Projects
 The following are all projects with a greater scope where I learnt a lot from them. Most of them took multiple months to complete.
