@@ -31,6 +31,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 header_pages: 
   - about_me.markdown
   - all_projects.md
+  - contact.md
 
 # social:
 #   linkedin: https://www.linkedin.com/in/victor-corne/

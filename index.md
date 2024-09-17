@@ -14,6 +14,5 @@ This is my personal webpage where I keep track of my portfolio and all my projec
 
 \- Victor
 
-
-
+   
 <!-- TODO include linkedin, CV -->

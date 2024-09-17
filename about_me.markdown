@@ -2,12 +2,8 @@
 layout: page
 title: About me
 permalink: /about/
-hidden: true
 ---
 
-## Links
-- [https://www.linkedin.com/in/victor-corne/](https://www.linkedin.com/in/victor-corne/)
-- [victor-corne@hotmail.com](mailto:victor-corne@hotmail.com)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
