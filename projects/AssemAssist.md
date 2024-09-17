@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 ## Large scale software development for fictitious automotive factory
