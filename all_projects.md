@@ -3,7 +3,7 @@ title: Projects
 layout: post
 ---
 
-> Warning: this page (and all pages it links to) are works in progress!
+> This page (and all pages it links to) are works in progress
 
 On this page, some projects that I completed, sorted on size.
 
