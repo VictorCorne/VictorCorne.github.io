@@ -29,9 +29,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 # linked_in: mailto:victor-corne@hotmail.com
 
 header_pages: 
-  - about_me.markdown
+  # - about_me.markdown
   - all_projects.md
   - contact.md
+  - education.md
 
 # social:
 #   linkedin: https://www.linkedin.com/in/victor-corne/
@@ -48,6 +49,10 @@ theme: minima
 #     url: /about/
 
 # paginate: false
+
+author: 
+  name: "Victor Corne"
+  email: "victor-corne@hotmail.com"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
