@@ -3,9 +3,9 @@ title: Projects
 layout: post
 ---
 
-> On this page, some projects that I completed, sorted on size. Most of them stem from the courses I've taken, which very closely fit my interests.
+> On this page, some projects that I completed, sorted on scope. Most of them stem from the courses I've taken, which very closely fit my interests.
 
-# Large Projects
+## Large Projects
 The following are all projects with a greater scope where I learnt a lot from them. Most of them took multiple months to complete.
 - [RAG Pipeline with sentence embeddings](pages/projects/RAG_IRSE)
 - [Thesis: Relational Constraint Learning of Low-Voltage Electrical Networks](pages/projects/Thesis_GIS_Rule_learning)
@@ -16,7 +16,7 @@ The following are all projects with a greater scope where I learnt a lot from th
 - [Large scale software development in fictitious setting](pages/projects/AssemAssist)
 - [Website for fictitious football fan club](pages/projects/football_website)
 
-# Medium Projects
+## Medium Projects
 Those projects had a somewhat more limited scope, but were all still very rewarding and had a very rich learning experience.
 - [Efficient algorithms for infinite features in big data](pages/projects/big_data_infinite_features)
 - [Hardware acceleration using CPU Intrinsics (C++)](pages/projects/big_data_hardware_intrinsics)
@@ -32,7 +32,7 @@ Those projects had a somewhat more limited scope, but were all still very reward
 - First Order Logic modelling of Laser Systems (March 2023)
 
 
-# Small Projects
+## Small Projects
 These are all small projects with a relatively limited scope, but were still valuable as I learnt at least one interesting skill in them.
 
 - Automatic Plotting of Study Progress
