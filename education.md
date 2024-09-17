@@ -8,74 +8,75 @@ title: Education
 
 
 **AI Core**
-- Big Data Analytics Programming [H00Y4A]
-- Capita Selecta Computer Science: Artificial Intelligence [H05N0A]
-- Data Mining [H02C6A]
-- Information Retrieval and Search Engines [H02C8B]
-- Knowledge Representation [H02C3A]
-- Machine Learning: Project [H0T25A]
-- Master's Thesis [H04J4A]
-- Modelling of Complex Systems [G0B23A]
-- Natural Language Processing [H02B1A]
-- Principles of Machine Learning [H0E96A]
-- Statistical Data Analysis [G0O00A]
+- `[H00Y4A]` Big Data Analytics Programming
+- `[H05N0A]` Capita Selecta Computer Science: Artificial Intelligence
+- `[H02C6A]` Data Mining
+- `[H02C8B]` Information Retrieval and Search Engines
+- `[H02C3A]` Knowledge Representation
+- `[H0T25A]` Machine Learning: Project
+- `[H04J4A]` Master's Thesis
+- `[G0B23A]` Modelling of Complex Systems
+- `[H02B1A]` Natural Language Processing
+- `[H0E96A]` Principles of Machine Learning
+- `[G0O00A]` Statistical Data Analysis
 
 **Computer Science (other)**
-- Applications of Geometry in Informatics [G0Q37C]
-- Distributed Systems [H04I4A]
-- Modelling and Simulation [G0Q57A]
-- Parallel Computing [H03F9A]
-- Software Architecture [H09B5B]
+- `[G0Q37C]` Applications of Geometry in Informatics
+- `[H04I4A]` Distributed Systems
+- `[G0Q57A]` Modelling and Simulation
+- `[H03F9A]` Parallel Computing
+- `[H09B5B]` Software Architecture
 
 **General**
-- Comparative Programming Languages [H04L5A]
-- Industrial Management & Entrepreneurship [H01F2A]
-- Industrial Internship: Computer Science [H04I9A]
-- Project Management [H04X2A]
+- `[H04L5A]` Comparative Programming Languages
+- `[H01F2A]` Industrial Management & Entrepreneurship
+- `[H04I9A]` Industrial Internship: Computer Science
+- `[H04X2A]` Project Management
 
 ## Bachelor of Informatics (Kortrijk) - Bachelor of Science 2019-2022
 
 [Course descriptions](https://onderwijsaanbod.kuleuven.be/2019/opleidingen/n/SC_55031767.htm#bl=all)
 
 **Computer Science**
-- Digital Electronics and Processors [X0B93A]
-- Computer Networks [X0C97A]
-- Software Design [X0D45A]
-- Automata and Computability [X0D48A]
-- Fundamentals for Computer Science [X0A25A]
-- Data Structures and Algorithms [X0A45A]
-- Artificial Intelligence [X0A50B]
-- Database Systems [X0A58A]
-- Declarative Languages [X0C99A]
-- Principles of Computer Programming [X0A06A]
-- Software Tools [X0A22C]
-- Object Oriented Programming [X0A27A]
-- Computer Organisation [X0A29B]
-- Operating Systems [X0A48A]
-- Fundamentals of Communication and Information Technology [X0B89B]
-
-**Physics**
-- General Physics: Electromagnetism [X0A35A]
-- Physics for Computer Scientists [X0C96A]
+- `[X0B93A]` Digital Electronics and Processors
+- `[X0C97A]` Computer Networks
+- `[X0D45A]` Software Design
+- `[X0D48A]` Automata and Computability
+- `[X0A25A]` Fundamentals for Computer Science
+- `[X0A45A]` Data Structures and Algorithms
+- `[X0A50B]` Artificial Intelligence
+- `[X0A58A]` Database Systems
+- `[X0C99A]` Declarative Languages
+- `[X0A06A]` Principles of Computer Programming
+- `[X0A22C]` Software Tools
+- `[X0A27A]` Object Oriented Programming
+- `[X0A29B]` Computer Organisation
+- `[X0A48A]` Operating Systems
+- `[X0B89B]` Fundamentals of Communication and Information Technology
 
 **Economics and technology**
-- Marketing (TEW) [D0W15A]
-- Production and Logistics Management (HIR) [D9X04A]
-- Introductory Economics (TEW) [D0W12B]
-- Organisation Psychology (TEW) [D0W29A]
-- New Product and Service Development [D0X14A]
+- `[D0X14A]` New Product and Service Development
+- `[D9X04A]` Production and Logistics Management (HIR)
+- `[D0W15A]` Marketing (TEW)
+- `[D0W12B]` Introductory Economics (TEW)
+- `[D0W29A]` Organisation Psychology (TEW)
+
+**Physics**
+- `[X0A35A]` General Physics: Electromagnetism
+- `[X0C96A]` Physics for Computer Scientists
+
 
 **Math**
-- Algebraic Structures and Applications [X0D62A]
-- Statistics [X0A14B]
-- Numerical analysis [X0A43A]
-- Analysis and Calculus [X0A00C]
-- Linear Algebra [X0A02C]
-- Techniques for Mathematical Analysis [X0B45B]
-- Mathematical reasoning [X0B74A]
+- `[X0D62A]` Algebraic Structures and Applications
+- `[X0A14B]` Statistics
+- `[X0A43A]` Numerical analysis
+- `[X0A00C]` Analysis and Calculus
+- `[X0A02C]` Linear Algebra
+- `[X0B45B]` Techniques for Mathematical Analysis
+- `[X0B74A]` Mathematical reasoning
 
 **Various (mandatory)**
-- Perspectives on Religion and Meaning [P0S31A]
-- Scientific Training [X0D49A]
-- Science Communication: Informatics [X0E21A]
-- Philosophy [X0A13A]
+- `[P0S31A]` Perspectives on Religion and Meaning
+- `[X0D49A]` Scientific Training
+- `[X0E21A]` Science Communication: Informatics
+- `[X0A13A]` Philosophy
