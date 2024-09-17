@@ -5,13 +5,15 @@
 layout: home
 ---
 
-Hey, welcome!
+Hi, welcome!
 
-This is my personal webpage where I keep track of my portfolio and all my projects (past, ongoing, future). While this site is a bit of a Work in progress at the moment, feel free to look around!
+This is my personal webpage where I keep track of my portfolio and all my projects (past, ongoing, future). While this site is not fully completed yet (there can always be more), you can still feel free to have look around.
+
+[The Projects page](all_projects) is currently the most interesting one on this portfolio. It contains the most interesting projects (relating to computer science) that I have performed in the last five years.
+
 
 \- Victor
 
 
-[The Projects page](all_projects) is currently the most interesting one on this portfolio. It contains my most interesting projects relating to computer science that I have done.
 
 <!-- TODO include linkedin -->
