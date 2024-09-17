@@ -27,6 +27,7 @@ Those projects had a somewhat more limited scope, but were all still very reward
 - [Gigabytes data-analysis of NBA statistics using hadoop](pages/projects/big_data_hadoop)
 - Game jams with Godot Engine (international team)
 - Transformer Language Model for short stories
+- Cloud based application for uncertainty handling in booking system
 - Parallel implementation of the game of life using MPI (December 2023)
 - Parallel implementation of matrix products using OpenMP (December 2023)
 - Community Detection using a Genetic Algorithm with a focus on efficient datastructures and algorithms (December 2020)
