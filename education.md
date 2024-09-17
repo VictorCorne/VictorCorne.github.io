@@ -3,6 +3,10 @@ layout: page
 title: Education
 ---
 
+> On this page, all courses I took on during my studies at KULeuven. 
+> 
+> I am very grateful for the opportunity of being able to get a chance of starting my studies and even more so of being blessed to finish them.
+
 ## Master of Engineering: Computer Science (Leuven): option AI (2022-2024)
 The following courses are the ones I took officially at the KULeuven (the programme description is [available here](https://onderwijsaanbod.kuleuven.be/opleidingen/n/SC_51230411.htm#bl=all)). 
 
