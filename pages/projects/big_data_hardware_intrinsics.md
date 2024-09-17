@@ -1,4 +1,5 @@
 ---
+show_in_navigation: false
 layout: post
 ---
 

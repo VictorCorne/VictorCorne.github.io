@@ -28,6 +28,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 # github_username:  jekyll
 # linked_in: mailto:victor-corne@hotmail.com
 
+# header_pages: 
+# - about.md
+# - projects.md
+#  - index.md
+
 # social:
 #   linkedin: https://www.linkedin.com/in/victor-corne/
 # Build settings
@@ -35,6 +40,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 theme: minima
 # plugins:
   # - jekyll-feed
+
+# navigation:
+#   - title: Home
+#     url: /
+#   - title: About
+#     url: /about/
+
+paginate: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -44,15 +57,15 @@ theme: minima
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
   # - "projects/*"

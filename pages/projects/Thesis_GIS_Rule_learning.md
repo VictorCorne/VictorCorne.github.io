@@ -1,5 +1,6 @@
 ---
 layout: page
+show_in_navigation: false
 ---
 
 ## Thesis: Relational Constraint Learning of Low-Voltage Electrical Networks
