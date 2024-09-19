@@ -1,9 +1,9 @@
 ---
 show_in_navigation: false
 layout: page
+title: OCaml Interpreter for a time-reversible programming language
 ---
 
-## OCaml Interpreter for a time-reversible programming language
 For the [Comparative study of programming languages course](https://onderwijsaanbod.kuleuven.be/syllabi/v/e/H04L5AE.htm#activetab=doelstellingen_idp11613024), we developped an interpreter for a new programming language.
 
 This language (jaysub) had the main feature of being time reversible (that being that every line of code could be ran backwards). 

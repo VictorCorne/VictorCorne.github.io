@@ -1,9 +1,8 @@
 ---
 show_in_navigation: false
 layout: page
+title: Natural Language Model to mimic chats messages from friends
 ---
-
-## Natural Language Model to mimic chats messages from friends
 
 In this (very casual) project with some friends, we try to make a natural language model to mimic the group chat between us and the friends in the project. 
 
