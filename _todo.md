@@ -17,3 +17,13 @@ Beetje meer buzzworden
 
 Meer over mezelf
 - minor economie, veel geleerd over product development, management
+
+Free time
+- Enjoy Biking in forest + Boekie lezen
+- Martial arts enjoyer
+- Petekinderen + gangverantwoordelijke A1
+- Koken
+
+How I do projects
+- Do it right at first time
+
