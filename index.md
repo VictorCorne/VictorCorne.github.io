@@ -14,6 +14,7 @@ This is my personal webpage where I keep track of my portfolio, all my projects 
 
 [The Projects Page](all_projects) contains the most interesting projects (relating to computer science) that I have performed in the last five years, and the [Education Page](education) contains an overview of all courses I have taken during my studies. You can also contact me at the [Contacts Page](contact).
 
+You can also learn about me in the [about me page](about_me).
 
 \- Victor
 

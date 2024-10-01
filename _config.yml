@@ -33,6 +33,7 @@ header_pages:
   - contact.md
   - education.md
   - all_projects.md
+  - about_me.html
 
 # social:
 #   linkedin: https://www.linkedin.com/in/victor-corne/
@@ -49,6 +50,9 @@ theme: minima
 #     url: /about/
 
 # paginate: false
+
+include:
+  - assets/pictures/nature/Heverleebos
 
 author: 
   name: "Victor Corne"

@@ -18,6 +18,9 @@ Beetje meer buzzworden
 Meer over mezelf
 - minor economie, veel geleerd over product development, management
 
+Personal
+- Opgegroeid in de beste stad van Belgie
+
 Free time
 - Enjoy Biking in forest + Boekie lezen
 - Martial arts enjoyer
