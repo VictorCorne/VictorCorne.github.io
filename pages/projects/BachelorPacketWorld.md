@@ -19,8 +19,8 @@ There is a lot of freedom in instantiating MAPE patterns, and we analyzed three 
 As an example, below is an instantiation of the semi-centralized architecture (the regional planner pattern).
 
 <div style="display: flex;">
-    <img src="../../assets/pictures/projects/RegionalPlannersMap.png" alt="Image 1" style="width: 45%;">
-    <img src="../../assets/pictures/projects/RegionalPlannerSchema.png" alt="Image 2" style="width: 45%;">
+    <img src="../../assets/pictures/projects/RegionalPlannersMap.png"   alt="Regional planner map" style="width: 45%;">
+    <img src="../../assets/pictures/projects/RegionalPlannerSchema.png" alt="Regional Planner Schematic" style="width: 45%;">
 </div>
 
 
