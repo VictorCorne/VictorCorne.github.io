@@ -13,3 +13,6 @@ The assignment gave a lot of freedom in our implementation, and we used sentence
 
 - skills: Search Engines, Sentence Embeddings, Software Design
 - status: Completed (June 2024)
+
+![RAG Pipeline](https://knowledge.dataiku.com/latest/_images/rag-pipeline.png)
+Illustration of a RAG pipeline (source: [https://knowledge.dataiku.com/latest/_images/rag-pipeline.png](https://knowledge.dataiku.com/latest/_images/rag-pipeline.png)).
